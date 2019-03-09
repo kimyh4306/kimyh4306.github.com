@@ -2,7 +2,7 @@
 layout: post
 title: Universal Coefficient Theorem For Cohomology
 category: Algebraic Topology
-description: 
+description: I clarify some troubles I had with Hatcher
 ---
 
 
