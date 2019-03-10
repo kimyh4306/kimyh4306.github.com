@@ -15,4 +15,6 @@ Since $${Ext}$$  measures the failure of exactness for $${Hom}$$,
 this means that $$Ext\mathcal{^1_R(F,)}$$ is zero.
 
 # 2. Ext Measures the Non-exactness of Hom
-The definition of the homology groups imply that  $$0\mathcal{\to im(\delta_n)\to ker(\delta_{n-1})\to H_n(C)\to 0}$$
+The definition of the homology groups imply that  $$0\mathcal{\to im(\delta_n)\to ker(\delta_{n-1})\to H_n(C)\to}0$$.
+The derived functor property of Hom guarantess the following chain complex:
+$$0\mathcal{\to} Hom(H_n(C),G) \mathcal{\to Hom(ker(\delta_{n-1}),G)} Hom(N,L)\mathcal{\to} Hom(M,L) \mathcal{\to}0$$
