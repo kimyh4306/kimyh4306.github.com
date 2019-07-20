@@ -2,7 +2,7 @@
 layout: post
 title: Morse Theory Notes
 category: Differential Topology
-description: These are some notes on Morse Theory I prepared for a seminar talk
+description: These are some notes on Morse Theory I prepared for the Mung seminar talk
 ---
 
 Here are the notes I prepared for the Mung Seminar.
