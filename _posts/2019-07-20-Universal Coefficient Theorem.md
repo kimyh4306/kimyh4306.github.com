@@ -14,6 +14,6 @@ These are the notes from my talk about the Universal Coefficient Theorem in coho
 I omitted the deviations toward homological algebra in these notes.
 The book "Algebra: Chapter 0" is strongly recommended for those who wishes to fill those gaps.
 
-<a href="/docs/Universal_Coefficient_Thm_for_Cohomology.p">[Notes]</a>.
+<a href="/docs/Universal_Coefficient_Thm_for_Cohomology.pdf">[Notes]</a>.
 
 
