@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is a maths blog run by a lazy author.
-He should practice his LATEX.
+I am an undergraduate student majoring Mathematics at Seoul National University.
+This blog was created in 2019 to share some of my writings that I wrote for seminars.
+I post usually at the end of the semesters.
