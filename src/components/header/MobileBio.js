@@ -1,7 +1,7 @@
 import React from "react"
 
 import "./header.css"
-import willjw3 from "../../images/yhkim4306.jpg"
+import yhkim4306 from "../../images/yhkim4306.jpg"
 
 const MobileBio = (props) => {
 
