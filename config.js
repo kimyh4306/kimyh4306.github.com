@@ -2,12 +2,12 @@
 
 module.exports = {
   url: "https://developer-diary.netlify.com",
-  title: "Developer Diary",
-  tagline: "Autodidact developer and sometimes hoop-jumper",
-  copyright: "© 2019 willjw3, All rights reserved",
+  title: "Yonghwan Kim",
+  tagline: "Mathematics Major, Seoul National University",
+  copyright: "© 2020 kimyh4306, All rights reserved",
   author: {
-    name: "WILL JAY",
-    bio: "Self-taught web developer and whisky aficionado",
+    name: "Yonghwan Kim",
+    bio: "Mathematics Major, Current Interests in Symplectic Topology",
     contacts: {
       linkedin: "https://www.linkedin.com/in/will-ward-65234a170/",
       github: "https://github.com/willjw3",

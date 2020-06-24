@@ -1,0 +1,10 @@
+파일을 수정한 후에 develop branch에 commit
+
+1. git add *
+2. git commit -m "test commit"
+" " 사이에 대충 뭐 바꿨는지 쓰면 나중에 로그로 볼 수 있음
+3. git push -u origin develop
+
+이제 사이트에 반영하기 위해 master branch에 생성하고 github에 deploy
+
+4. npm run deploy
