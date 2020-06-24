@@ -1,3 +1,7 @@
+git이 있는 directory로 이동
+cd C:\Users\yonghwan.LAPTOP-V2E0Q32L\Downloads\kimyh4306.github.io
+
+
 파일을 수정한 후에 develop branch에 commit
 
 1. git add *

@@ -32,20 +32,22 @@ const AboutPage = (props) => {
                     <SEO title="About" />
                     <div className="mt-3">
                         <h2 className="heading">About</h2>
-                        <p><i>Developer Diary is a Gatsby Starter blog template created with web developers in mind, but really, anyone can use it. It's totally usable right out of the box, but minimalist enough to be easily modifiable to suit your needs.</i></p>
+                        <p><i>I am an undergraduate student at Seoul National University. Here are some of my current interests in Mathematics:
+
+                        </i></p>
                         <br />
-                        <h4>Features</h4>
+                        <h4>Current Interests</h4>
                         <div>
-                            <span className="text-success d-inline-block" title="blazing">
+                            <span className="text-success d-inline-block" title="Mirror Symmetry">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Blazing fast, as you'd expect from a Gatsby site</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Fukaya Category</p>
                         </div>
                         <div>
-                            <span className="text-success d-inline-block" title="tags">
+                            <span className="text-success d-inline-block" title="Contact Topology">
                                 <FaCheckCircle size={26} style={{ color: "success" }} />
                             </span>
-                            <p className="d-inline-block ml-3 w-75 align-top">Tech tags designed for web developers</p>
+                            <p className="d-inline-block ml-3 w-75 align-top">Stein fillings and Milnor Fibrations</p>
                             <div className="ml-5">
                                 <TechTag tag="react" tech="React" name={tags["react"]} size={20} color="deepskyblue" />
                                 <TechTag tag="nodejs" tech="Node.js" name={tags["nodejs"]} size={20} color="lightgreen" />
