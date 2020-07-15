@@ -1,10 +1,17 @@
 ---
-title: 'Using Emmet with React in Visual Studio Code - 2019'
+title: 'Morse Theory Notes'
 tags: ["react", "vscode"]
 published: true
-date: '2019-03-20'
+date: '2019-06-30'
 ---
 
-Curabitur tincidunt hendrerit justo. Praesent nisl dui, mollis vitae quam eu, dignissim faucibus lorem. Sed vitae erat at sem suscipit laoreet nec vel diam.
+Here are the notes I prepared for the Mung Seminar.
+These notes are about Morse theory.
+I did not touch upon Morse homology and stable, unstable manifolds on this talk.
+Those topics were left for the following talk in the winter.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-BIQjRd3NGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Most of these notes come from the three books: "Morse Theory", "Lectures on the h-cobordism theorem" by John Milnor,
+and "An Introduction to Morse Theory" by Yukio Matsumoto.
+
+
+[Notes](https://drive.google.com/open?id=1Fxkrjna2og_J5AnBiRrdlcW5UBtn_usR)
