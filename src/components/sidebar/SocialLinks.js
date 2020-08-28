@@ -9,8 +9,14 @@ import {
 import {
     GiBrazil
 } from "react-icons/gi"
+import {
+    AiFillInstagram,
+    AiFillFacebook
+} from "react-icons/ai"
+import {
+    SiArxiv
+} from "react-icons/si"
 import "./sidebar.css"
-
 
 const SocialLinks = ({ contacts }) => {
     return (
@@ -18,19 +24,19 @@ const SocialLinks = ({ contacts }) => {
             <a className="text-secondary p-2"
                 href={contacts.github}>
                 <span title="GitHub">
-                    <FaGithubSquare size={26} style={{ color: "secondary" }} />
+                    <AiFillInstagram size={26} style={{ color: "pink" }} />
                 </span>
             </a>
             <a className="text-secondary p-2"
                 href={contacts.stackoverflow}>
                 <span title="Stack Overflow">
-                    <FaStackOverflow size={26} style={{ color: "secondary" }} />
+                    <AiFillFacebook size={26} style={{ color: "skyblue" }} />
                 </span>
             </a>
             <a className="text-secondary p-2"
                 href={contacts.twitter}>
                 <span title="Twitter">
-                    <GiBrazil size={26} style={{ color: "secondary" }} />
+                    <SiArxiv size={26} style={{ color: "secondary" }} />
                 </span>
             </a>
         </div>
