@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://developer-diary.netlify.com",
   title: "Yonghwan Kim",
-  tagline: "Mathematics Major, Seoul National University",
+  tagline: "Mathematics Major Sophomore, Seoul National University",
   copyright: "© 2020 kimyh4306, All rights reserved",
   author: {
     name: "Yonghwan Kim",
