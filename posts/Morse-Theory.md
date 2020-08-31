@@ -1,6 +1,6 @@
 ---
 title: 'Morse Theory Notes'
-tags: ["react", "vscode"]
+tags: ["morse theory", "symplectic"]
 published: true
 date: '2019-06-30'
 ---

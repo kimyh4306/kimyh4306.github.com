@@ -14,7 +14,8 @@ import {
     AiFillFacebook
 } from "react-icons/ai"
 import {
-    SiArxiv
+    SiArxiv,
+    SiGooglescholar
 } from "react-icons/si"
 import "./sidebar.css"
 
@@ -24,7 +25,7 @@ const SocialLinks = ({ contacts }) => {
             <a className="text-secondary p-2"
                 href={contacts.github}>
                 <span title="GitHub">
-                    <AiFillInstagram size={26} style={{ color: "pink" }} />
+                    <SiGooglescholar size={26} style={{ color: "secondary" }} />
                 </span>
             </a>
             <a className="text-secondary p-2"

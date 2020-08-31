@@ -6,11 +6,15 @@ import {
     FaFreeCodeCamp,
     FaTwitterSquare
 } from "react-icons/fa"
-
+import overflow from "../../images/mathoverflow.png"
 
 const SocialLinks = ({ contacts }) => {
     return (
         <div className="social-links float-right mr-4">
+            <a className="text-info ml-4"
+                href={contacts.twitter}>
+                <img src={overflow} style={{ maxWidth: `50px`, maxHeight: `50px`}}/>
+            </a>
             <a className="text-primary ml-4"
                 href={contacts.linkedin}>
                 <span title="Linked In">
@@ -35,12 +39,7 @@ const SocialLinks = ({ contacts }) => {
                     <FaFreeCodeCamp size={40} style={{ color: "success" }} />
                 </span>
             </a>
-            <a className="text-info ml-4"
-                href={contacts.twitter}>
-                <span title="Twitter">
-                    <FaTwitterSquare size={40} style={{ color: "info" }} />
-                </span>
-            </a>
+            
         </div>
     )
 }

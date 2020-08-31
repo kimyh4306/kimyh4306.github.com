@@ -1,23 +1,37 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
+  url: "https://kimyh4306.com",
   title: "Yonghwan Kim",
-  tagline: "Mathematics Major Sophomore, Seoul National University",
+  tagline: "Mathematics Major, Seoul National University",
   copyright: "© 2020 kimyh4306, All rights reserved",
   author: {
     name: "Yonghwan Kim",
     bio: "Mathematics Major, Current Interests in Symplectic Topology",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/will-ward-65234a170/",
+      linkedin: "https://www.linkedin.com/in/yonghwan-kim-5019461b4/",
       github: "https://github.com/willjw3",
       stackoverflow:
-        "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
-      freecodecamp: "https://www.freecodecamp.org/willjw3",
+        "https://mathoverflow.net/users/164471/yonghwan-kim",
+      freecodecamp: "https://arxiv.org/list/math.SG/recent",
       twitter: "https://twitter.com/willjw3",
     },
   },
   labels: [
+    {
+      tag: "morse theory",
+      tech: "Morse Theory",
+      name: "M 2225 5109 c -980 -126 -1810 -821 -2113 -1771 c -85 -265 -112 -453 -112 -778 c 0 -325 27 -513 112 -778 c 305 -956 1138 -1650 2128 -1772 c 109 -13 531 -13 640 0 c 990 122 1823 816 2128 1772 c 85 265 112 453 112 778 c 0 325 -27 513 -112 778 c -305 956 -1138 1650 -2128 1772 c -100 12 -555 11 -655 -1 Z m 597 -554 c 398 -53 776 -227 1077 -496 c 102 -92 281 -292 281 -315 c 0 -12 -258 -234 -271 -234 c -4 0 -22 19 -40 43 c -249 320 -586 533 -983 619 c -87 19 -131 22 -326 22 c -195 0 -239 -3 -326 -22 c -549 -119 -989 -488 -1198 -1002 l -26 -65 l 1048 -1047 l 1047 -1048 l 65 26 c 376 152 680 434 864 803 c 42 83 103 247 120 324 l 6 27 l -435 0 l -435 0 l 0 185 l 0 185 l 640 0 l 640 0 l 0 -74 c 0 -174 -52 -435 -125 -631 c -219 -588 -721 -1052 -1324 -1226 l -113 -32 l -1205 1206 l -1206 1205 l 32 113 c 218 756 878 1327 1656 1433 c 137 19 399 19 537 1 Z m -302 -4003 c -6 -2 -65 1 -133 7 c -979 90 -1728 831 -1827 1810 c -5 57 -10 117 -10 135 c 0 28 83 -52 990 -959 c 545 -545 985 -992 980 -993 Z",
+      size: 20,
+      color: "deepskyblue",
+    },
+    {
+      tag: "symplectic",
+      tech: "Symplectic Geometry",
+      name: "M 2225 5109 c -980 -126 -1810 -821 -2113 -1771 c -85 -265 -112 -453 -112 -778 c 0 -325 27 -513 112 -778 c 305 -956 1138 -1650 2128 -1772 c 109 -13 531 -13 640 0 c 990 122 1823 816 2128 1772 c 85 265 112 453 112 778 c 0 325 -27 513 -112 778 c -305 956 -1138 1650 -2128 1772 c -100 12 -555 11 -655 -1 Z m 597 -554 c 398 -53 776 -227 1077 -496 c 102 -92 281 -292 281 -315 c 0 -12 -258 -234 -271 -234 c -4 0 -22 19 -40 43 c -249 320 -586 533 -983 619 c -87 19 -131 22 -326 22 c -195 0 -239 -3 -326 -22 c -549 -119 -989 -488 -1198 -1002 l -26 -65 l 1048 -1047 l 1047 -1048 l 65 26 c 376 152 680 434 864 803 c 42 83 103 247 120 324 l 6 27 l -435 0 l -435 0 l 0 185 l 0 185 l 640 0 l 640 0 l 0 -74 c 0 -174 -52 -435 -125 -631 c -219 -588 -721 -1052 -1324 -1226 l -113 -32 l -1205 1206 l -1206 1205 l 32 113 c 218 756 878 1327 1656 1433 c 137 19 399 19 537 1 Z m -302 -4003 c -6 -2 -65 1 -133 7 c -979 90 -1728 831 -1827 1810 c -5 57 -10 117 -10 135 c 0 28 83 -52 990 -959 c 545 -545 985 -992 980 -993 Z",
+      size: 20,
+      color: "deepskyblue",
+    },
     {
       tag: "react",
       tech: "React",
